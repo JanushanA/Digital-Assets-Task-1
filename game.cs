@@ -12,8 +12,7 @@ namespace Games
             while (true)
             {
                 Console.Clear();
-                Console.WriteLine("==================================");
-                Console.WriteLine("           CONSOLE GAMES          ");
+                Console.WriteLine("                GAMES              ");
                 Console.WriteLine("==================================");
                 Console.WriteLine("1) Naughts and Crosses (PvP)");
                 Console.WriteLine("2) Rock Paper Scissors (PvComputer)");
