@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace GameSuite
+namespace Games
 {
     internal class Program
     {
